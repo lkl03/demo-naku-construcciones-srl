@@ -1,2 +1,7 @@
-# demo-naku-construcciones-srl
-Demo web para Naku Construcciones SRL — diseñada por eterlab.
+# Naku Construcciones SRL
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
